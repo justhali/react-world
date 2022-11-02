@@ -2,6 +2,8 @@
 
 Premier projet React issu de la [chaîne Youtube : From Scratch - Le développement web de zéro](https://youtu.be/f0X1Tl8aHtA).
 
+Voir le résultat [c'est ici 🤩]()
+
 ## Notions vues dans le projet
 
 A travers ce projet je me suis initiée à: 
