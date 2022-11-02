@@ -2,7 +2,7 @@
 
 Premier projet React issu de la [chaîne Youtube : From Scratch - Le développement web de zéro](https://youtu.be/f0X1Tl8aHtA).
 
-Voir le résultat [c'est ici 🤩]()
+Voir le résultat [c'est ici 🤩](https://justhali.github.io/react-world/)
 
 ## Notions vues dans le projet
 
