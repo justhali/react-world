@@ -6,12 +6,12 @@ import Home from "./pages/Home";
 const App = () => {
   return (
       // A mettre en premier car c'est un élément principal pour la navigation
-      <BrowserRouter>
+      <BrowserRouter basename="/react-world">
         <Routes>
           {/* Liens vers les pages */}
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          {/* Le path="*" fonctionne si jamais l'url ne correspond à riien de déclaré au dessus */}
+          {/* Le path="*" fonctionne si jamais l'url ne correspond à rien de déclaré au dessus */}
           <Route path="*" element={<Home />} />
         </Routes>
       </BrowserRouter>
